@@ -1,0 +1,19 @@
+{
+  "name": "kanban_app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Vargentum/kanban_app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vargentum/kanban_app/issues"
+  },
+  "homepage": "https://github.com/Vargentum/kanban_app"
+}
